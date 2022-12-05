@@ -11,9 +11,9 @@
 
 <br/>
 #### 기술 스택
- - <img src="https://img.shields.io/badge/-Nest.JS-red"/>  <img src="https://img.shields.io/badge/-Express-lightgrey"/>
- - <img src="https://img.shields.io/badge/-Typescript-blue"/>  <img src="https://img.shields.io/badge/-Javascript-yellow"/>
- - <img src="https://img.shields.io/badge/-Prisma-ff69b4"/>  <img src="https://img.shields.io/badge/-MySQL-lightgrey"/>
+ <img src="https://img.shields.io/badge/-Nest.JS-red"/>  <img src="https://img.shields.io/badge/-Express-lightgrey"/>
+ <img src="https://img.shields.io/badge/-Typescript-blue"/>  <img src="https://img.shields.io/badge/-Javascript-yellow"/>
+ <img src="https://img.shields.io/badge/-Prisma-ff69b4"/>  <img src="https://img.shields.io/badge/-MySQL-lightgrey"/>
 
 
 
