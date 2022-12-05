@@ -9,8 +9,13 @@
 - 😄 Pronouns: Pronouns 뜻을 몰라.
 - ⚡ Fun fact: 없어. 난 딱히 재미있는 사람은 아니걸랑
 
+<br/>
+#### 기술 스택
+ - <img src="https://img.shields.io/badge/-Nest.JS-red"/>  <img src="https://img.shields.io/badge/-Express-lightgrey"/>
+ - <img src="https://img.shields.io/badge/-Typescript-blue"/>  <img src="https://img.shields.io/badge/-Javascript-yellow"/>
+ - <img src="https://img.shields.io/badge/-Prisma-ff69b4"/>  <img src="https://img.shields.io/badge/-MySQL-lightgrey"/>
 
-<img src="https://img.shields.io/badge/-Nest.JS-red"/>
+
 
 <!--
 **DONGUKwillsucceed/DONGUKwillsucceed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
