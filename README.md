@@ -10,7 +10,8 @@
 - ⚡ Fun fact: 없어. 난 딱히 재미있는 사람은 아니걸랑
 
 <br/>
-#### 기술 스택
+### 기술 스택
+<br/>
 <div><img src="https://img.shields.io/badge/-Nest.JS-red"/>  <img src="https://img.shields.io/badge/-Express-lightgrey"/> </div>
 <div><img src="https://img.shields.io/badge/-Typescript-blue"/>  <img src="https://img.shields.io/badge/-Javascript-yellow"/></div>
 <div><img src="https://img.shields.io/badge/-Prisma-ff69b4"/>  <img src="https://img.shields.io/badge/-MySQL-lightgrey"/></div>
