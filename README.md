@@ -10,7 +10,7 @@
 <div><img src="https://img.shields.io/badge/-Prisma-ff69b4"/>  <img src="https://img.shields.io/badge/-MySQL-lightgrey"/></div>
  
 
-![Donguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Donguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=DONGUKwillsucceed&show_icons=true&bg_color=00000000)
 
 
 <!--
