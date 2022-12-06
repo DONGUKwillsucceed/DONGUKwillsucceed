@@ -7,7 +7,7 @@
 <br/>
 
 
-#### My Skills
+### My Skills
 
 <div><img src="https://img.shields.io/badge/-Nest.JS-red"/>  <img src="https://img.shields.io/badge/-Express-lightgrey"/> </div>
 <div><img src="https://img.shields.io/badge/-Typescript-blue"/>  <img src="https://img.shields.io/badge/-Javascript-yellow"/></div>
