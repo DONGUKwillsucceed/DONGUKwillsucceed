@@ -14,6 +14,7 @@
 <div><img src="https://img.shields.io/badge/-Prisma-ff69b4"/>  <img src="https://img.shields.io/badge/-MySQL-lightgrey"/></div>
 
 <br/>
+
 |    Type    |       Period       |               Content              |    Organization   |
 |:----------:|:------------------:|:----------------------------------:|:-----------------:|
 |  Education |     2019-03 ~      | Department of Software Engineering | Sejong University |
