@@ -20,8 +20,8 @@
 
 |    Type    |       Period       |               Content              |    Organization   |
 |:----------:|:------------------:|:----------------------------------:|:-----------------:|
-|  Education |     2019-03 ~      | Department of Software Engineering | Sejong University |
-| Internship | 2022-09 -  2022-12 |          Backend Developer         |        Boba       |
+|  **Education** |     2019-03 ~      | Department of Software Engineering | **Sejong University** |
+| **Internship** | 2022-09 -  2022-12 |          Backend Developer         |        **Boba**       |
 
 <br/>
 
