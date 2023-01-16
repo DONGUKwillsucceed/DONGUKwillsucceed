@@ -1,7 +1,7 @@
 ## Hello! This is Donguk
 
-- 🔭 I’m currently working on Boba (Cloud Printing Solution)
-- 🌱 I’m currently learning Nest.JS, Node.JS, Typescript, JAVA, Spring
+- 🔭 I’m currently studying on  École Spéciale de Mécanique et d'Électricité (ESME Suduria Engineering School)
+- 🌱 I’m currently learning Nest.JS, Node.JS, Typescript, JAVA, Spring Boot
 - 📫 How to reach me: email me with rlaehddnr1009@naver.com
 
 <br/>
@@ -21,7 +21,10 @@
 |    Type    |       Period       |               Content              |    Organization   |
 |:----------:|:------------------:|:----------------------------------:|:-----------------:|
 |  **Education** |     2019-03 ~      | Department of Software Engineering | **Sejong University** |
+| **Education** | 2023-02 -  2023-06 |          Exchange Student         | **ESME Sudria Engineering School**|
 | **Internship** | 2022-09 -  2022-12 |          Backend Developer         |        **Boba**       |
+| **Military Service** | 2020-07 -  2022-01 |          Mortar Gunner         | **Republic of Korea Army**|
+
 
 <br/>
 
