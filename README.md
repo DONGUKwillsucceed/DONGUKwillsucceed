@@ -1,7 +1,7 @@
 ## Hello! This is Donguk
 
 - 🔭 I’m currently studying on  École Spéciale de Mécanique et d'Électricité (ESME Suduria Engineering School)
-- 🌱 I’m currently learning Nest.JS, Node.JS, Typescript, JAVA, Spring Boot
+- 🌱 I’m currently learning Nest.JS, Node.JS, Typescript, JAVA, Spring Boot 
 - 📫 How to reach me: email me with rlaehddnr1009@naver.com
 
 <br/>
